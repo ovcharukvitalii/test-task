@@ -1,0 +1,45 @@
+[{
+    "username": "Willy",
+    "email": "willyovcharuk@gmail.com",
+    "todos": [{
+        "subject":"buy milk",
+        "dueDate": "2021-02-27 10:00:00",
+        "done": true
+    }]
+},
+{
+    "username": "Willy",
+    "email": "willyovcharuk@gmail.com",
+    "todos": [{
+        "subject":"lingualeo training",
+        "dueDate": "2021-02-27 18:00:00",
+        "done": false
+    }]
+},
+{
+    "username": "Willy",
+    "email": "willyovcharuk@gmail.com",
+    "todos": [{
+        "subject":"Vlad's birthday",
+        "dueDate": "2021-03-03 12:00:00",
+        "done": false
+    }]
+},
+{
+    "username": "Willy",
+    "email": "willyovcharuk@gmail.com",
+    "todos": [{
+        "subject":"buy milk",
+        "dueDate": "2021-02-26 17:00:00",
+        "done": false
+    }]
+},
+{
+    "username": "Willy",
+    "email": "willyovcharuk@gmail.com",
+    "todos": [{
+        "subject":"fix vacuum cleaner",
+        "dueDate": "2021-03-01 09:00:00",
+        "done": false
+    }]
+}]
